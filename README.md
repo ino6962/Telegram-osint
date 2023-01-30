@@ -26,7 +26,7 @@
 * [Telegram Chinese Search](http://www.sssoou.com/)
 * [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
 * [Telegra.ph Search Engine](https://telegcrack.com/)
----
+~~
 ## [↑](#contents) Directories And Catalogues
 * [TelegramDB](https://telegramdb.org/)
 * [Telemetrio](https://telemetr.io/en/channels)
@@ -78,7 +78,7 @@
 * [Telegoo](https://telegoo.net/)
 * [TelegramReader](https://telegramreader.com/)
 * [Telegram-Sliv](https://telegram-sliv.ru/)
-* [TG頻道群組合集](https://telegramgroups.com.hk/)---
+* [TG頻道群組合集](https://telegramgroups.com.hk/)~~
 
 ## [↑](#contents) Misc Directories And Catalogues
 
